@@ -21,9 +21,18 @@
 
 ## 3. Tag  (29.08.25)
 ### Ziele
-1. C++ weiter programmieren
+1. C++ weiter programmieren, funktionielles Programm -> Preisrechner
 2. Viel spass dabei haben!
 
 ### Erreicht?
 1. C++ loops und if statements kennengelernt. Ein wenig verinnerlicht (auswendig gelernt :P).
 2. Immer
+ 
+## 3. Tag  (05.09.25)
+### Ziele
+1. C++ weiter programmieren
+2. Viel spass dabei haben!
+
+### Erreicht?
+1. ?
+2. ?
