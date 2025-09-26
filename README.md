@@ -34,5 +34,15 @@
 2. Viel spass dabei haben!
 
 ### Erreicht?
-1. ?
-2. ?
+1. Ich habe weiter an C++ programmiert, jedoch hat es auf nichts hinausgeführt :P
+2. Natürlich hatte ich spass
+
+## 4. Tag  (26.09.25)
+### Ziele
+1. Ein wenig für Geographie repetieren
+2. Ein wenig 3D Modellieren für ein Spielcharakter in Unity
+
+### Erreicht?
+1. yup
+2. Ich habe den Charakter modelliert jedoch habe ich noch Probleme in Blender ein funktionierendes Skelett an den Charakter zu binden (das auch wirklich funktioniert :P). Ich hatte probleme mit dem sogenannten "Weight-Painting". Ich werde nächstes mal weiter machen.
+
