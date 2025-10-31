@@ -12,8 +12,10 @@ Ziele:
 ES IST HALLOWEEN!!!
 Ziele:
 1. Für den Test 319 C# repetieren und ein paar sachen neu lösen
-2. Viel Spass haben.
+2. GitHub Push/Pull für unser Projekt einrichten
+3. Viel Spass haben.
 
 ### Erreicht?:
 1. yessirski
-2. Immer!
+2. Ich habe beim Lehrer ein Feedback eingeholt und er hat mir erklärt was ich falsch gemacht hatte. Rookie mistake :)
+3. Immer!
