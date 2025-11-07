@@ -19,3 +19,15 @@ Ziele:
 1. yessirski
 2. Ich habe beim Lehrer ein Feedback eingeholt und er hat mir erklärt was ich falsch gemacht hatte. Rookie mistake :)
 3. Immer!
+
+## 3. Tag (31.10.25)
+Ziele:
+1. Für Deutsch das Buch "Sunrise weiterlesen"
+2. etwas für die bevorstehende Mathematik Prüfung lernen
+3. Viel Spass haben.
+
+### Erreicht?:
+1. 
+2. 
+3. Immer!
+
