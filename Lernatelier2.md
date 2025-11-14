@@ -27,7 +27,16 @@ Ziele:
 3. Viel Spass haben.
 
 ### Erreicht?:
-1. 
-2. 
+1. Ja
+2. Yes
+3. Immer!
+
+## 3. Tag (14.11.25)
+Ziele:
+1. Für Deutsch das Buch "Sunrise weiterlesen"
+3. Viel Spass haben.
+
+### Erreicht?:
+1. Ja
 3. Immer!
 
