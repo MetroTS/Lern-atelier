@@ -40,3 +40,22 @@ Ziele:
 1. Ja
 3. Immer!
 
+## 4. Tag (21.11.25)
+Ziele:
+1. An dem gemeinsamen Projekt im Modul 319 weiterarbeiten
+3. Viel Spass haben.
+
+### Erreicht?:
+1. Ja
+3. Immer!
+
+## 5. Tag (21.11.25)
+Ziele:
+1. Den Code für das gemeinsame Projekt im Modul 319 fertigstellen
+3. Viel Spass haben.
+
+### Erreicht?:
+1. Ja
+3. Immer!
+
+
