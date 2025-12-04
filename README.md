@@ -34,28 +34,38 @@ Ziele:
 ## 3. Tag (14.11.25)
 Ziele:
 1. Für Deutsch das Buch "Sunrise weiterlesen"
-3. Viel Spass haben.
+2. Viel Spass haben.
 
 ### Erreicht?:
 1. Ja
-3. Immer!
+2. Immer!
 
 ## 4. Tag (21.11.25)
 Ziele:
 1. An dem gemeinsamen Projekt im Modul 319 weiterarbeiten
-3. Viel Spass haben.
+2. Viel Spass haben.
 
 ### Erreicht?:
 1. Ja
-3. Immer!
+2. Immer!
 
 ## 5. Tag (21.11.25)
 Ziele:
 1. Den Code für das gemeinsame Projekt im Modul 319 fertigstellen
-3. Viel Spass haben.
+2. Viel Spass haben.
 
 ### Erreicht?:
 1. Ja
-3. Immer!
+2. Immer!
+
+## 6. Tag (05.12.25)
+Es ist Weihnachten!!!
+Ziele:
+1. Lernen wie WinUI funktioniert -> in Visual Studio code ein paar sachen kaputt machen...
+2. Wie immer viel Spass dabei haben.
+
+### Erreicht?:
+1.
+2. 
 
 
