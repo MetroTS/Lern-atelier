@@ -65,7 +65,20 @@ Ziele:
 2. Wie immer viel Spass dabei haben.
 
 ### Erreicht?:
-1.
-2. 
+1. Das kaputt machen schon :P
+2. Immer
+
+## 6. Tag (12.12.25)
+Ziele:
+1. Input von Herr Lauk über WinUI anhören
+2. Mit Eric unsere Storymap besprechen --> wie gehen wir mit was vor.
+3. Für die bevorstehende Prüfung über das Modul 162 lernen.
+4. Wie immer viel Spass dabei haben.
+
+### Erreicht?:
+1.a
+2.
+3.
+4.
 
 
