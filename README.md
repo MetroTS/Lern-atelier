@@ -25,4 +25,5 @@
 3. Game Prinzip wurde entwickelt, ist aber ein wenig zu kompliziert zu beschreiben.
 4. Ich habe ein Player Character umgesetzt, man kann sich mit WASD bewegen und sich umschauen, hat aber ganz schön viel Zeit gebraucht.
 
-
+## Reflexion der Lernperiode
+In dieser Lernperiode habe ich erweiterte Prinzipien des Programmieren gelernt und auch ein wenig von C++ Syntax gelernt und ich habe mein eigenes Projekt angefangen, wie plant man ein Projekt? Und vorallem was ist Goalcreep oder wie auch immer das heisst, wenn man zu ambizioniert ist und das Projekt langsamer und langsamer immer grösser und grösser wird.
