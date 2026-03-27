@@ -21,3 +21,8 @@
 ### Ziele:
 1. Game Prinzip entwickeln
 2. Game Mechanics (wenn extra Zeit vorhanden ist) physisch planen --> in Godot umsetzen.
+
+3. Game Prinzip wurde entwickelt, ist aber ein wenig zu kompliziert zu beschreiben.
+4. Ich habe ein Player Character umgesetzt, man kann sich mit WASD bewegen und sich umschauen, hat aber ganz schön viel Zeit gebraucht.
+
+
