@@ -13,3 +13,9 @@ Diese Lernperiode möchte ich mehr mit Arduinos coden, meine eigenen Software Pr
 - Arduino wurde mit dem Computer verbuden.
 - Arduino IDE wurde geskipped, ich mag das IDE überhaupt nicht. Ich habe stattdessen Visual Studio Code mit PlatformIO benutzt, welches ich viel angenehmer finde.
 - Ich habe die Power LED auf dem Arduino blinken lassen und den Text "Hello World!" über das Matrix-Display scrollen lassen. Es hat zwar eine Library die das Scrollen ermöglicht lässt aber den Loop leider nicht ganz durchlaufen. Deshalb habe ich eine Funktion geschrieben die den Text einfach mit X-Position verschiebt und dann wieder resettet.
+---
+### 01.05.2026
+Ich habe im Verlauf der Woche ein kleines Projekt gestartet. Ich möchte die 12x8 LED Matrix meines Arduinos über das WiFi steuern. Ich entwickle gerade eine kleine Webseite in HTML/CSS/JS und schreibe die passende Firmware für den Arduino.
+Mehr Projektdetails und das Repository:
+- Meine Ziele sind es heute den Arduino und den PC (bzw. die Webseite) miteinander reden zu lassen sodass die individuellen LEDs angesteuert werden können.
+- Ich muss mich also schlau machen wie Arduinos über das WLAN kommunizieren und wie der Webbrowser über das WLAN kommunizieren kann.
