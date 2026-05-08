@@ -38,7 +38,7 @@ Heute möchte ich weiter an meinem Arduino Projekt arbeiten. Ich möchte mein Pr
 Das Programm funktioniert jetzt! Ich konnte erfolgreich Packets an den Arduino schicken und somit das Display kontrollieren. Der Webserver hat noch ein paar bugs zum ausbügeln und ich möchte nächstes Mal noch ein "Clear All" button hinzufügen und die funktionalität zu Zeichnen hinzufügen --> es ist zwar Support im Webserver da, jedoch werden die Packets zu schnell gesendet um vom Arduino angenommen zu werden.
 
 ### Additional Resources:
-[Link zum Repo für Arduino Firmware](https://github.com/MetroTS/Arduino_WiFi_Display)
+[Link zum Repo für Arduino Firmware](https://github.com/MetroTS/Arduino_WiFi_Display)/
 [Link zur Webseite/Webserver für den Arduino](https://github.com/MetroTS/LEDControlWebsite)
 
 ---
