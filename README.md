@@ -19,3 +19,9 @@ Ich habe im Verlauf der Woche ein kleines Projekt gestartet. Ich möchte die 12x
 Mehr Projektdetails und das Repository:
 - Meine Ziele sind es heute den Arduino und den PC (bzw. die Webseite) miteinander reden zu lassen sodass die individuellen LEDs angesteuert werden können.
 - Ich muss mich also schlau machen wie Arduinos über das WLAN kommunizieren und wie der Webbrowser über das WLAN kommunizieren kann.
+### Reflexion
+Ich hatte noch nicht die Chance das Programm zu testen aber die Grobe logik von Webseite --> Verbindung --> reciever Code auf Arduino ist einigermassen fertig geschrieben. 
+---
+### 08.05.2026
+Heute möchte ich weiter an meinem Arduino Projekt arbeiten. Ich möchte mein Programm einmal testen --> C++ oder JS debuggen falls irgendwas nicht funktioniert und festhalten was für Denkfehler ich gemacht habe.
+
