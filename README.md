@@ -55,3 +55,6 @@ Ich habe den Wirtschaftsauftrag mit meinen Partnern fertiggestellt. Der Bio Auft
 ### 29.05.2026
 
 Heute möchte ein wenig an meinen Programmierfähigkeiten mit Lua arbeiten. 
+
+### Reflexion
+Es ist mir gelungen weiterhin an Lua zu arbeiten, ich baue gerne sachen auf der Platform Roblox nach und programmiere es mit Grundfunktionen. Ich habe mich für die, am kommenden Juli, Waschanlagenschau in Roblox. Ich bin dort in der "Waschanlagen Community" bei Auto Waschstrasssen.
