@@ -49,3 +49,9 @@ Heute möchte ich an meinen Aufträgen für die Kanti arbeiten, dabei habe ich n
 
 ### Reflexion
 Ich habe den Wirtschaftsauftrag mit meinen Partnern fertiggestellt. Der Bio Auftrag hat sich etwas länger als erwartet herausgestellt und ich habe ihn noch nicht ganz fertig. Fürs Programmieren hatte ich heute nur sehr wenig Zeit.
+
+---
+
+### 29.05.2026
+
+Heute möchte ein wenig an meinen Programmierfähigkeiten mit Lua arbeiten. 
