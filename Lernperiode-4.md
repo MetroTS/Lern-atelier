@@ -1,7 +1,7 @@
 # Lernperiode-4
 
-- Name: Aaron Gerteis
-- Zeitraum: 24.04.2026 - 03.07.2026
+Name: Aaron Gerteis
+Zeitraum: 24.04.2026 - 03.07.2026
 
 ## Noten
 SQL sehr stark, ICT-Arbeitsplatz zufrieden, Notenstand jetzt gerade - zufrieden, mögliche Schwäche --> M117 Netzwerk
