@@ -88,6 +88,8 @@ Github Repository aktualisiert - sie ist nun richtig formatiert.
 Bio Test so gut wie möglich gelernt und repetiert. Drücken sie mir die Daumen!
 PowerShell nicht weiterhin an meinem Projekt gearbeitet
 
+---
+
 ### 12.06.2026
 
 - [ ] Powershell Projekt arbeiten
