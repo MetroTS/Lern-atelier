@@ -7,7 +7,7 @@
 SQL sehr stark, ICT-Arbeitsplatz zufrieden, Notenstand jetzt gerade - zufrieden, mögliche Schwäche --> M117 Netzwerk
 
 ### Veränderungen
-Im moment nichts.
+Im moment würde ich gerne nichts verändern.
 
 ### Projekte / neue Technologien
 Powershell, HTML CSS, C++, C#, WPF
