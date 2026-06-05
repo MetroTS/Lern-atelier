@@ -4,6 +4,7 @@
 - Zeitraum: 24.04.2026 - 03.07.2026
 
 ## Noten
+SQL sehr stark, ICT-Arbeitsplatz zufrieden, Notenstand jetzt gerade - zufrieden, mögliche Schwäche --> M117 Netzwerk
 
 ### Veränderungen
 Im moment nichts.
@@ -74,4 +75,9 @@ Es ist mir gelungen weiterhin an Lua zu arbeiten, ich baue gerne sachen auf der 
 ### 05.06.2026
 
 - [] GitHub Repository aktualisieren und richtig formatieren.
-- [] 
+- [] Für den Bio Test Lernen
+- [] Powershell weiterhin an meinem Projekt arbeiten
+
+### Reflexion
+
+Undefined
