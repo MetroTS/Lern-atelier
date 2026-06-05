@@ -1,6 +1,6 @@
 # Lernperiode-4
 
-Name: Aaron Gerteis
+Name: Aaron Gerteis \
 Zeitraum: 24.04.2026 - 03.07.2026
 
 ## Noten
