@@ -1,9 +1,21 @@
-# Lernperiode 4 (24.04.2026 - 03.07.2026)
+# Lernperiode-4
 
-## Grobplanung
+- Name: Aaron Gerteis
+- Zeitraum: 24.04.2026 - 03.07.2026
+
+## Noten
+
+### Veränderungen
+Im moment nichts.
+
+### Projekte / neue Technologien
+Powershell, HTML CSS, C++, C#, WPF
+
+### Generelle Ziele
 Diese Lernperiode möchte ich mehr mit Arduinos coden, meine eigenen Software Projekte verwirklichen und wenn ich gerade nichts zu tun habe möchte ich bei der Cisco Network Academy weiter lernen.
 
-## Feinplanung
+## Tagesplanungen
+
 ### 24.04.2026
 - Arduino mit meinem Computer verbinden
 - Mit Arduino IDE Code auf den Arduino pushen
@@ -58,3 +70,8 @@ Heute möchte ein wenig an meinen Programmierfähigkeiten mit Lua arbeiten.
 
 ### Reflexion
 Es ist mir gelungen weiterhin an Lua zu arbeiten, ich baue gerne sachen auf der Platform Roblox nach und programmiere es mit Grundfunktionen. Ich habe mich für die, am kommenden Juli, Waschanlagenschau in Roblox. Ich bin dort in der "Waschanlagen Community" bei Auto Waschstrasssen.
+
+### 05.06.2026
+
+- [] GitHub Repository aktualisieren und richtig formatieren.
+- [] 
