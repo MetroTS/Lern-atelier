@@ -95,3 +95,6 @@ PowerShell nicht weiterhin an meinem Projekt gearbeitet
 - [ ] Powershell Projekt arbeiten
 - [ ] HTML CSS Projekt arbeiten
 - [ ] Weiterhin am Lua arbeiten für meine Waschanlagen simulation
+
+### Reflexion
+undefined
