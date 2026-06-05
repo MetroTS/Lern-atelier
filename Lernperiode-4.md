@@ -72,6 +72,8 @@ Heute möchte ein wenig an meinen Programmierfähigkeiten mit Lua arbeiten.
 ### Reflexion
 Es ist mir gelungen weiterhin an Lua zu arbeiten, ich baue gerne sachen auf der Platform Roblox nach und programmiere es mit Grundfunktionen. Ich habe mich für die, am kommenden Juli, Waschanlagenschau in Roblox. Ich bin dort in der "Waschanlagen Community" bei Auto Waschstrasssen.
 
+---
+
 ### 05.06.2026
 
 - [ ] GitHub Repository aktualisieren und richtig formatieren.
