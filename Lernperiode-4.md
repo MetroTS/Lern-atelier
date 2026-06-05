@@ -74,9 +74,9 @@ Es ist mir gelungen weiterhin an Lua zu arbeiten, ich baue gerne sachen auf der 
 
 ### 05.06.2026
 
-- [] GitHub Repository aktualisieren und richtig formatieren.
-- [] Für den Bio Test Lernen
-- [] Powershell weiterhin an meinem Projekt arbeiten
+- [ ] GitHub Repository aktualisieren und richtig formatieren.
+- [ ] Für den Bio Test Lernen
+- [ ] Powershell weiterhin an meinem Projekt arbeiten
 
 ### Reflexion
 
