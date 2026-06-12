@@ -95,6 +95,14 @@ PowerShell nicht weiterhin an meinem Projekt gearbeitet
 - [ ] Powershell Projekt arbeiten
 - [ ] HTML CSS Projekt arbeiten
 - [ ] Weiterhin am Lua arbeiten für meine Waschanlagen simulation
+- [ ] USB Reverse Engineering --> Tobii Eye Tracker vom VR Headset ansteuern
 
 ### Reflexion
 undefined
+
+---
+
+### 19.06.2026
+
+- [ ] USB Reverse Engineering --> Tobii Eye Tracker vom VR Headset ansteuern
+
