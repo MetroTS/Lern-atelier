@@ -95,14 +95,32 @@ PowerShell nicht weiterhin an meinem Projekt gearbeitet
 - [ ] Powershell Projekt arbeiten
 - [ ] HTML CSS Projekt arbeiten
 - [ ] Weiterhin am Lua arbeiten für meine Waschanlagen simulation
-- [ ] USB Reverse Engineering --> Tobii Eye Tracker vom VR Headset ansteuern
+- [x] USB Reverse Engineering --> Tobii Eye Tracker vom VR Headset ansteuern
 
 ### Reflexion
-undefined
+Ich habe heute nur eines meiner groben Projekte verfolgt. Ich habe ziemlich viel Zeit aufgebraucht einen groben Plan für mein VR-Projekt zu formulieren. Zwar geht es dabei darum, die Sensoren der HP Reverb G2 Omnicept anzusteuern. Ich möchte ein nativen Treiber für Windows und/oder Linux schreiben der die Hardware enumeriert und exposed. 
+
+Grober Plan wurde bis jetzt (mithilfe von Herr Lauk und Claude) so formuliert:
+- Wie verbindet man sich mit dem Headset?
+  - Wo findet man das Headset?
+    - Was macht dieser USB überhaupt?
+    - Headset Verbindung
+  - Auf was hört es?
+  - Auf was spricht es an?
+  - Omnicept dekompilieren, vielleicht mehr herausfinden.
+- Endgoal: Starten der ET Hardware!!!
+  - Auf was hört es um zu starten?
+  - Was spricht es?
 
 ---
 
 ### 19.06.2026
 
-- [ ] USB Reverse Engineering --> Tobii Eye Tracker vom VR Headset ansteuern --> Headset Kommunikation über USB Treiber C++
+- [ ] Verbinden mit Headset --> Dazu gehört: Adresse?, USB Interface?, WireFormat?
+- [ ] Test Nachrichten schicken --> auf was hört das Headset??
+- [ ] Abhören --> Falls es spricht, was spricht es zurück??
 
+### Reflexion
+Undefined
+
+---
