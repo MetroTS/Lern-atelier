@@ -104,5 +104,5 @@ undefined
 
 ### 19.06.2026
 
-- [ ] USB Reverse Engineering --> Tobii Eye Tracker vom VR Headset ansteuern
+- [ ] USB Reverse Engineering --> Tobii Eye Tracker vom VR Headset ansteuern --> Headset Kommunikation über USB Treiber C++
 
