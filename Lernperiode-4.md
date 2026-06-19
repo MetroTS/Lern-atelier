@@ -116,11 +116,22 @@ Grober Plan wurde bis jetzt (mithilfe von Herr Lauk und Claude) so formuliert:
 
 ### 19.06.2026
 
-- [ ] Verbinden mit Headset --> Dazu gehört: Adresse?, USB Interface?, WireFormat?
-- [ ] Test Nachrichten schicken --> auf was hört das Headset??
+- [x] Verbinden mit Headset --> Dazu gehört: Adresse?, USB Interface?, WireFormat?
+- [x] Test Nachrichten schicken --> auf was hört das Headset??
 - [ ] Abhören --> Falls es spricht, was spricht es zurück??
 
 ### Reflexion
-Undefined
+Mir ist es gelungen die Verbindung mit dem Headset herzustellen. Ich habe mittels Wireshark ein wenig den USB abgehört um zu ermitteln was für Sachen zum und vom Headset geschickt werden. Dabei ist mir aufgefallen, dass die Omnicept Runtime das Headset anderst enumeriert wie wenn ich es einfach normal ohne Runtime in den PC einstecken würde. Manche USB Devices werden zwar als Devices erkannt jedoch werden ihre Treiber nicht normal gestartet ausser sie werden für ein Programm gefordert.
 
+Ich habe probiert ein paar test Nachrichten zu schicken à la Wireshark was ich gesehen habe, jedoch ist nie etwas zurück gekommen.
+
+---
+
+### 26.06.2026
+
+- [ ] Test Nachricht = Response
+- [ ] Abhören
+- [ ] Eye Tracking Hardware aus dem schlaf erwachen lassen
+
+### Reflexion
 ---
