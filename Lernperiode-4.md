@@ -20,9 +20,9 @@ Diese Lernperiode möchte ich mehr mit Arduinos coden, meine eigenen Software Pr
 ## Tagesplanungen
 
 ### 24.04.2026
-- Arduino mit meinem Computer verbinden
-- Mit Arduino IDE Code auf den Arduino pushen
-- Einfachen Text auf dem Arduino zeigen
+- [x] Arduino mit meinem Computer verbinden
+- [x] Mit Arduino IDE Code auf den Arduino pushen
+- [x] Einfachen Text auf dem Arduino zeigen
 
 ---
 
@@ -38,8 +38,8 @@ Diese Lernperiode möchte ich mehr mit Arduinos coden, meine eigenen Software Pr
 
 Ich habe im Verlauf der Woche ein kleines Projekt gestartet. Ich möchte die 12x8 LED Matrix meines Arduinos über das WiFi steuern. Ich entwickle gerade eine kleine Webseite in HTML/CSS/JS und schreibe die passende Firmware für den Arduino.
 Mehr Projektdetails und das Repository:
-- Meine Ziele sind es heute den Arduino und den PC (bzw. die Webseite) miteinander reden zu lassen sodass die individuellen LEDs angesteuert werden können.
-- Ich muss mich also schlau machen wie Arduinos über das WLAN kommunizieren und wie der Webbrowser über das WLAN kommunizieren kann.
+- [x] Meine Ziele sind es heute den Arduino und den PC (bzw. die Webseite) miteinander reden zu lassen sodass die individuellen LEDs angesteuert werden können.
+- [x] Ich muss mich also schlau machen wie Arduinos über das WLAN kommunizieren und wie der Webbrowser über das WLAN kommunizieren kann.
 
 ### Reflexion
 Ich hatte noch nicht die Chance das Programm zu testen aber die Grobe logik von Webseite --> Verbindung --> reciever Code auf Arduino ist einigermassen fertig geschrieben. 
@@ -48,6 +48,8 @@ Ich hatte noch nicht die Chance das Programm zu testen aber die Grobe logik von 
 
 ### 08.05.2026
 Heute möchte ich weiter an meinem Arduino Projekt arbeiten. Ich möchte mein Programm einmal testen --> C++ oder JS debuggen falls irgendwas nicht funktioniert und festhalten was für Denkfehler ich gemacht habe.
+- [x] Meine Ziele sind es heute den Arduino und den PC (bzw. die Webseite) miteinander reden zu lassen sodass die individuellen LEDs angesteuert werden können.
+- [x] Ich muss mich also schlau machen wie Arduinos über das WLAN kommunizieren und wie der Webbrowser über das WLAN kommunizieren kann.
 
 ### Reflexion
 Das Programm funktioniert jetzt! Ich konnte erfolgreich Packets an den Arduino schicken und somit das Display kontrollieren. Der Webserver hat noch ein paar bugs zum ausbügeln und ich möchte nächstes Mal noch ein "Clear All" button hinzufügen und die funktionalität zu Zeichnen hinzufügen --> es ist zwar Support im Webserver da, jedoch werden die Packets zu schnell gesendet um vom Arduino angenommen zu werden.
@@ -62,6 +64,9 @@ Das Programm funktioniert jetzt! Ich konnte erfolgreich Packets an den Arduino s
 
 Heute möchte ich an meinen Aufträgen für die Kanti arbeiten, dabei habe ich noch 2 Aufträge aufzuarbeiten. Einen für Bio und einen für Wirtschaft. Sobald ich die Aufträge abgearbeitet habe, werde ich weiterhin ein wenig am Programmieren von HTML und CSS arbeiten, da dies für unser neues Modul wichtig ist. 
 
+- [x] Bio Auftrag
+- [x] Wirtschaft Auftrag
+
 ### Reflexion
 Ich habe den Wirtschaftsauftrag mit meinen Partnern fertiggestellt. Der Bio Auftrag hat sich etwas länger als erwartet herausgestellt und ich habe ihn noch nicht ganz fertig. Fürs Programmieren hatte ich heute nur sehr wenig Zeit.
 
@@ -70,6 +75,10 @@ Ich habe den Wirtschaftsauftrag mit meinen Partnern fertiggestellt. Der Bio Auft
 ### 29.05.2026
 
 Heute möchte ein wenig an meinen Programmierfähigkeiten mit Lua arbeiten. 
+
+- [x] Lua loops
+- [x] Lua functions
+- [x] Lua variables
 
 ### Reflexion
 Es ist mir gelungen weiterhin an Lua zu arbeiten, ich baue gerne sachen auf der Platform Roblox nach und programmiere es mit Grundfunktionen. Ich habe mich für die, am kommenden Juli, Waschanlagenschau in Roblox. Ich bin dort in der "Waschanlagen Community" bei Auto Waschstrasssen.
