@@ -40,6 +40,7 @@ Ich habe im Verlauf der Woche ein kleines Projekt gestartet. Ich möchte die 12x
 Mehr Projektdetails und das Repository:
 - [x] Meine Ziele sind es heute den Arduino und den PC (bzw. die Webseite) miteinander reden zu lassen sodass die individuellen LEDs angesteuert werden können.
 - [x] Ich muss mich also schlau machen wie Arduinos über das WLAN kommunizieren und wie der Webbrowser über das WLAN kommunizieren kann.
+- [ ] Platzhalter für 3
 
 ### Reflexion
 Ich hatte noch nicht die Chance das Programm zu testen aber die Grobe logik von Webseite --> Verbindung --> reciever Code auf Arduino ist einigermassen fertig geschrieben. 
@@ -50,6 +51,7 @@ Ich hatte noch nicht die Chance das Programm zu testen aber die Grobe logik von 
 Heute möchte ich weiter an meinem Arduino Projekt arbeiten. Ich möchte mein Programm einmal testen --> C++ oder JS debuggen falls irgendwas nicht funktioniert und festhalten was für Denkfehler ich gemacht habe.
 - [x] Meine Ziele sind es heute den Arduino und den PC (bzw. die Webseite) miteinander reden zu lassen sodass die individuellen LEDs angesteuert werden können.
 - [x] Ich muss mich also schlau machen wie Arduinos über das WLAN kommunizieren und wie der Webbrowser über das WLAN kommunizieren kann.
+- [ ] Platzhalter für 3
 
 ### Reflexion
 Das Programm funktioniert jetzt! Ich konnte erfolgreich Packets an den Arduino schicken und somit das Display kontrollieren. Der Webserver hat noch ein paar bugs zum ausbügeln und ich möchte nächstes Mal noch ein "Clear All" button hinzufügen und die funktionalität zu Zeichnen hinzufügen --> es ist zwar Support im Webserver da, jedoch werden die Packets zu schnell gesendet um vom Arduino angenommen zu werden.
@@ -66,6 +68,7 @@ Heute möchte ich an meinen Aufträgen für die Kanti arbeiten, dabei habe ich n
 
 - [x] Bio Auftrag
 - [x] Wirtschaft Auftrag
+- [ ] Platzhalter für 3
 
 ### Reflexion
 Ich habe den Wirtschaftsauftrag mit meinen Partnern fertiggestellt. Der Bio Auftrag hat sich etwas länger als erwartet herausgestellt und ich habe ihn noch nicht ganz fertig. Fürs Programmieren hatte ich heute nur sehr wenig Zeit.
