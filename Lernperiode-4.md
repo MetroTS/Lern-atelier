@@ -138,9 +138,13 @@ Ich habe probiert ein paar test Nachrichten zu schicken à la Wireshark was ich 
 
 ### 26.06.2026
 
-- [ ] Test Nachricht = Response
-- [ ] Abhören
+- [x] Test Nachricht = Response
+- [x] Abhören
 - [ ] Eye Tracking Hardware aus dem schlaf erwachen lassen
 
 ### Reflexion
+Ich habe bereits die Kommunikation mit dem Gerät etablier. Nachrichten senden und empfangen funktioniert, und das passive Abhören läuft. Der nächste kritische Schritt, das Eye-Tracking-Modul aus dem Ruhezustand zu wecken, ist noch offen und wahrscheinlich der schwierigste Teil, da er das genaue Wake-up-Protokoll auf dem USB/HID-Bus erfordert. Das Fundament steht aber solide.
+
 ---
+Eine Zusammenfassung über die Lernperiode an sich:
+Ich finde in dieser Lernperiode habe ich vieles dazugelernt. Ich habe viel neues ausprobiert, manchmal lief es gut, manchmal jedoch auch schlecht. Alles in allem denke ich habe ich viel gutes gelernt und meistens positive Ergebnisse gehabt.
