@@ -9,7 +9,7 @@
 SQL sehr stark, ICT-Arbeitsplatz zufrieden, Notenstand jetzt gerade - zufrieden, mit eifer am Lernen für das neue Schuljahr.
 
 ### Veränderungen
-> Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
+Mehr Sessions, mehr Nachfragen und mehr Lernen! Nicht nur einfach blind die KI fragen.
 
 ### Projekte / neue Technologien
 C#, Rust, SQL, Linux
