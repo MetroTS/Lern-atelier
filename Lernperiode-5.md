@@ -24,12 +24,11 @@ Arbeit an Linux Distribution, sodass ich hoffentlich nur noch Linux benutzen mus
 ### Planung 14.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Linux: Bluetooth, Office Apps, CPUID bit usw. zum laufen bringen (Alltagstauglich machen)
-- [ ] C# Entwicklungsumgebung einrichten für die kommenden Module
+- [x] Linux: Bluetooth, Office Apps, CPUID bit usw. zum laufen bringen (Alltagstauglich machen)
+- [x] C# Entwicklungsumgebung einrichten für die kommenden Module
 - [X] Teams in Bottles oder Wine einrichten, sodass ich mich nicht mit dem grässlichen Web Teams herumschlagen muss!!!
 
-(Heute habe ich... (50-100 Wörter))
-
+Heute habe ich Teams in Wine ausgeführt, meine Visual Studio Code Entwicklungsumgebung für CSharp eingerichtet (dazu zählte Dotnet SDK einrichten und Visual Studio auf Linux einrichten) und habe einige meiner Probleme in Linux gelöst (z.B: Bluetooth packages, Office Apps starten via LinOffice, DNS Resolver mithilfe von Herr Lauk und habe den SEB Browser zum laufen gebracht.)
 
 ### Planung 21.08.2026
 3 bis 5 klar messbare Arbeitspakete.
