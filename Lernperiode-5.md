@@ -68,7 +68,7 @@ Heute habe ich Teams in Wine ausgeführt, meine Visual Studio Code Entwicklungsu
 ### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
+- [ ] Wrapper Script für Python venv Lernatelierchecker
 - [ ] ...
 - [X] Viertes AP
 
