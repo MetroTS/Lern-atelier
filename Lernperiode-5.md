@@ -33,9 +33,10 @@ Heute habe ich Teams in Wine ausgeführt, meine Visual Studio Code Entwicklungsu
 ### Planung 21.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Electron App aufsetzen
+- [ ] Electron App testapplikation aufsetzen um HTML, CSS noch einmal zu üben
+- [X] C# Logik Klassen nochmal Programmieren
+- [ ] Monado, Opencomposite, SteamVR treiber sachen für Linux anschauen / Plan formulieren für Linux VR Treiber
 
 (Heute habe ich... (50-100 Wörter))
 
