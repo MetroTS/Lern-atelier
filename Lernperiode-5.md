@@ -33,28 +33,28 @@ Heute habe ich Teams in Wine ausgeführt, meine Visual Studio Code Entwicklungsu
 ### Planung 21.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Electron App aufsetzen
-- [ ] Electron App testapplikation aufsetzen um HTML, CSS noch einmal zu üben
+- [x] Electron App aufsetzen
+- [x] Electron App testapplikation aufsetzen um HTML, CSS noch einmal zu üben
 - [X] C# Logik Klassen nochmal Programmieren
 - [ ] Monado, Opencomposite, SteamVR treiber sachen für Linux anschauen / Plan formulieren für Linux VR Treiber
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich eine Electron App aufgesetzt, eine HTML Testseite dadurch displayed und bearbeitet. Ich habe auch weiter für das Modul 320 C# Klassen repetiert. Ich muss noch Konstruktoren ein wenig besser verstehen.
 
 ### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Anforderungen für Electron App von Kunde "Mama" sammeln.
+- [ ] C# Konstruktoren und allfällige andere Themen repetieren.
+- [ ] Basic Anforderungen für die Electron App technisch umsetzen d.h. UI navigieren, speichern, abrufen.
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich bei C# für 60 minuten weiterhin probebeispiele zum repetieren des Themas 320 gemacht. Ich habe mir für die weitere Zeit mithilfe des Moduls 322 die Nutzeranforderungen und das Design für meine Electron App überlegt. Was braucht der Nutzer, was sind bestimmte "Design Konvente" die wichtig sind umzusetzen. Das Design soll vorallem auf den Nutzer "Mama" abgestimmt sein. Bei ihr habe ich noch nicht die Zeit, bzw. hat sie noch nicht die Zeit, gehabt eine sinnvolle Anforderungsliste zu sammeln und zu besprechen.
 
 ### Planung 04.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Electron App simpler "Start Screen" zum laufen zu bringen
+- [ ] Styles in CSS auf mein HTML "Start Screen" anwenden, dazu gehören Shadow, Color, BackgroundColor etc.
+- [ ] Grundlegende JS logik revidieren mind. 45 min via https://www.w3schools.com/js/
 
 (Heute habe ich... (50-100 Wörter))
 
