@@ -44,8 +44,8 @@ Heute habe ich eine Electron App aufgesetzt, eine HTML Testseite dadurch display
 3 bis 5 klar messbare Arbeitspakete.
 
 - [ ] Anforderungen für Electron App von Kunde "Mama" sammeln.
-- [ ] C# Konstruktoren und allfällige andere Themen repetieren.
-- [ ] Basic Anforderungen für die Electron App technisch umsetzen d.h. UI navigieren, speichern, abrufen.
+- [x] C# Konstruktoren und allfällige andere Themen repetieren.
+- [x] Basic Anforderungen für die Electron App technisch umsetzen d.h. UI navigieren, speichern, abrufen.
 
 Heute habe ich bei C# für 60 minuten weiterhin probebeispiele zum repetieren des Themas 320 gemacht. Ich habe mir für die weitere Zeit mithilfe des Moduls 322 die Nutzeranforderungen und das Design für meine Electron App überlegt. Was braucht der Nutzer, was sind bestimmte "Design Konvente" die wichtig sind umzusetzen. Das Design soll vorallem auf den Nutzer "Mama" abgestimmt sein. Bei ihr habe ich noch nicht die Zeit, bzw. hat sie noch nicht die Zeit, gehabt eine sinnvolle Anforderungsliste zu sammeln und zu besprechen.
 
