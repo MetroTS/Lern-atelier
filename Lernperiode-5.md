@@ -52,26 +52,26 @@ Heute habe ich bei C# für 60 minuten weiterhin probebeispiele zum repetieren de
 ### Planung 04.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Electron App simpler "Start Screen" zum laufen zu bringen
-- [ ] Styles in CSS auf mein HTML "Start Screen" anwenden, dazu gehören Shadow, Color, BackgroundColor etc.
-- [ ] Grundlegende JS logik revidieren mind. 45 min via https://www.w3schools.com/js/
+- [x] Electron App simpler "Start Screen" zum laufen zu bringen
+- [x] Styles in CSS auf mein HTML "Start Screen" anwenden, dazu gehören Shadow, Color, BackgroundColor etc.
+- [x] Grundlegende JS logik revidieren mind. 45 min via https://www.w3schools.com/js/
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich meine Electron App zum laufen gebracht. Yippie! Ich konnte ein wenig mit CSS herumexperimentieren und habe eine kleine Javascript Suchfunktion für 3 Sachen auf meiner Web Page hinzugefügt.
 
 ### Planung 11.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [x] Lernatelier Enviroment aufsetzen auf meinem Macbook
+- [x] Arbeiten an der Electron App --> grobes Mockup vom Design erstellt und noch ein wenig mehr über die Strukturelle Umsetzung nachgedacht
+- [X] Kleine Idee bekommen den Lernatelier Checker als extension ins VSCode IDE einzubringen?? Vielleicht für nächstes mal.
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich im Lernatelier ein git clone für mein Macbook durchgeführt um dort meine Markdown Files in VSCode zu bearbeiten. Ich habe weiterhin an meiner Electron App gearbeitet und dazu ein Mockup von den verschiedenen Seiten erstellt. Bei der blöden Datenbank der Firma meiner Mutter muss ich mich noch ins API des Providers einlesen. Ich hatte während des Unterrichts noch einen kleinen Geistesblitz, wieso könnte man den Lernatelier Checker nicht einfach ins IDE via einer Extension einbauen.
 ### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Wrapper Script für Python venv Lernatelierchecker
-- [ ] ...
-- [X] Viertes AP
+- [ ] Lernatelier Checker im VSCode IDE??
+- [ ] API, Datenbank Backend implementieren
+- [X] HiFi concept für mein Electron App
 
 (Heute habe ich... (50-100 Wörter))
 
