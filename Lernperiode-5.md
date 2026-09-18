@@ -73,7 +73,7 @@ Heute habe ich im Lernatelier ein git clone für mein Macbook durchgeführt um d
 - [ ] API, Datenbank Backend implementieren
 - [X] HiFi concept für mein Electron App
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich die Idee entertained die VSCODE extension zu machen, wie wo was etc pp.
 
 ### Planung 25.09.2026
 3 bis 5 klar messbare Arbeitspakete.
