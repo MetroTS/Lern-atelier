@@ -69,18 +69,19 @@ Heute habe ich im Lernatelier ein git clone für mein Macbook durchgeführt um d
 ### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Lernatelier Checker im VSCode IDE??
-- [ ] API, Datenbank Backend implementieren
-- [X] HiFi concept für mein Electron App
+- [X] Lernatelier Checker als VSCode Extension: Machbarkeit abklären und notieren, wie der Aufbau aussieht (Extension API, Einstiegspunkt, Einbindung des bestehenden Python-Checkers)
+- [ ] API und Datenbank-Backend: mindestens einen Endpoint implementieren und erfolgreich gegen die Datenbank testen
+- [X]  Electron App: HiFi-Konzept fertiggestellt
 
-Heute habe ich die Idee entertained die VSCODE extension zu machen, wie wo was etc pp.
+Heute habe ich die Idee weiterverfolgt, den Lernatelier Checker als Extension in VSCode einzubauen, und mir überlegt, wie, wo und was dafür nötig wäre. Das HiFi-Konzept für meine Electron App habe ich abgeschlossen. Das API und das Datenbank-Backend stehen noch aus.
 
 ### Planung 25.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Grundgerüst der VSCode Extension erstellt (z. B. mit yo code), die Extension startet im Extension Development Host
+- [ ] Command „Lernatelier: Check“ registriert, der djlauks Lernatelier Checker auf die aktuell geöffnete Markdown-Datei ausführt
+- [ ] Ergebnisse des Checkers in VSCode angezeigt (Output Channel oder als Hinweise im Problems-Panel)
+- [X] Falls Zeit bleibt: Extension mit mindestens zwei Planungsdokumenten getestet (ein vollständiges, ein unvollständiges), Ergebnis stimmt jeweils
 
 (Heute habe ich... (50-100 Wörter))
 
