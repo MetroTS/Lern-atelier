@@ -1,6 +1,6 @@
-# Lern-Periode NR
-- Name: Exemplibus Exemplio
-- Zeitraum: tt.mm.jjjj bis tt.mm.jjjj
+# Lern-Periode 6
+- Name: Gerteis  Lucy
+- Zeitraum: 23.10.2026 bis 18.12.2026
 
 ## Grob-Planung
 
@@ -17,7 +17,9 @@ in welchen sind die ungenügend? Welche davon sind besonders wichtig?
 Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
 -->
 
-...Ihr Text...
+Im Vergleich zur letzten Lernperiode möchte ich meine Ziele klarer und überprüfbarer formulieren. Statt allgemeiner Vorhaben lege ich für jedes Projekt ein konkretes Ergebnis fest (z. B. «veröffentlicht», «läuft», «entschieden»). Ausserdem plane ich meine Arbeitspakete so, dass sie jeweils in 30 bis 60 Minuten zu schaffen sind und am Ende des Tages eindeutig abgehakt werden können.
+
+Ich will mich auf wenige Projekte konzentrieren, statt an allen gleichzeitig zu arbeiten, damit ich sie wirklich abschliesse. Zusätzlich setze ich einen festen Schwerpunkt auf Linux, den ich in der Planung bewusst einbaue, statt ihn nur nebenbei zu lernen.
 
 ### Projekte / neue Technologien
 <!--
@@ -26,7 +28,18 @@ Verlinken Sie zu den GitHub Repos Ihrer Projekte.
 (Können Sie später nach und nach einfügen.)
 -->
 
-...Ihr Text...
+**Projekte**
+
+- **Lernatelier-Checker:** Prüfwerkzeug für Lernatelier-Dokumente mit einer Python-CLI, einer JS-Bibliothek ([lernatelier-checker-js](https://github.com/MetroTS/lernatelier-checker-js)) und einer VS-Code-Erweiterung. In dieser Lernperiode baue ich die Erweiterung fertig und veröffentliche sie.
+- **BaseStationBoss:** SteamVR-Plugin, das Lighthouse-Basisstationen beim Start ein- und beim Beenden ausschaltet. Ziel ist eine öffentliche Version auf GitHub. Repo: [LINK EINFÜGEN]
+- **Opencept Utility:** WPF-Anwendung, die das USB-Protokoll der Sensoren der HP Reverb G2 Omnicept per Reverse Engineering anspricht. Als Nächstes folgt die Face-Tracking-Kamera für die Anbindung an VRChat. Repo: [LINK EINFÜGEN]
+- **Haptic-Trackpad-PCB:** Eigenes Trackpad mit haptischem Feedback als Ersatz für das ASUS-ROG-G14-Trackpad. Ich schliesse die Schaltplanentscheidungen ab. Repo: [LINK EINFÜGEN]
+
+**Neue Technologien**
+
+- **VS-Code-Erweiterungen:** Aufbau, Diagnostics-API, Bündeln mit esbuild und Veröffentlichen im Marketplace
+- **Linux:** Shell-Skripte, systemd und Konfiguration meines Arch-/Hyprlanland-Setups
+- **Reverse Engineering:** USB-Protokolle mit Wireshark analysieren
 
 ### Generelle Ziele
 <!--
