@@ -71,11 +71,11 @@ absence, absent, Absenz, abwesend, krank, Krankheit.
 
 ### Planung 23.10.2026
 
-- [ ] Entwicklungsumgebung auf dem Arch-Laptop einrichten (Node.js, npm, Git, Editor) und mit `yo code` ein TypeScript-Erweiterungsgerüst erzeugen. Mit F5 starten, bis der Beispielbefehl in der Befehlspalette erscheint
-- [ ] `lernatelier-checker-js` in die Erweiterung einbinden und in `extension.ts` mit einem Testtext aufrufen. Das Prüfergebnis erscheint im Output-Fenster
-- [ ] Die Prüfung auf die aktuell geöffnete `.md`-Datei beschränken: Text aus dem aktiven Editor lesen, andere Dateitypen überspringen
-- [ ] Prüfergebnisse als Diagnostics im Problems-Panel von VS Code anzeigen, jeweils mit Zeilenangabe
-- [ ] Prüfung automatisch beim Speichern ausführen, kurzes README mit Installation und Funktionsumfang schreiben und den Stand auf GitHub pushen
+- [x] Entwicklungsumgebung auf dem Arch-Laptop einrichten (Node.js, npm, Git, Editor) und mit `yo code` ein TypeScript-Erweiterungsgerüst erzeugen. Mit F5 starten, bis der Beispielbefehl in der Befehlspalette erscheint
+- [x] `lernatelier-checker-js` in die Erweiterung einbinden und in `extension.ts` mit einem Testtext aufrufen. Das Prüfergebnis erscheint im Output-Fenster
+- [x] Die Prüfung auf die aktuell geöffnete `.md`-Datei beschränken: Text aus dem aktiven Editor lesen, andere Dateitypen überspringen
+- [x] Prüfergebnisse als Diagnostics im Problems-Panel von VS Code anzeigen, jeweils mit Zeilenangabe
+- [x] Prüfung automatisch beim Speichern ausführen, kurzes README mit Installation und Funktionsumfang schreiben und den Stand auf GitHub pushen
 
 
 #### Tagesreflexion
@@ -86,7 +86,30 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
+Der Plan ist komplett aufgegangen, vor allem weil jedes Arbeitspaket ein eindeutiges Ergebnis hatte: «erscheint in der Befehlspalette», «erscheint im Problems-Panel». So wusste ich nach jedem Schritt sofort, ob er fertig ist. Besonders hilfreich war, dass lernatelier-checker-js schon als Bibliothek existierte, sodass ich die Prüflogik nicht neu schreiben musste. Die Diagnostics-API war am Anfang ungewohnt, mit den Zeilenangaben funktionierte sie dann aber gut. Für das nächste Mal nehme ich mit, dass ich die Pakete ruhig etwas grösser planen darf.
+
+<!--
+Fügen Sie hier die weiteren Tage der Lernperiode ein.
+-->
+
+### Planung 30.10.2026
+
+- [ ] Erweiterung mit esbuild bündeln: Build-Skript in `package.json` einrichten und prüfen, dass die gebündelte `extension.js` in der Debug-Umgebung (F5) genauso funktioniert wie vorher
+- [ ] `package.json` für den Marketplace vorbereiten: Anzeigename, Beschreibung, Kategorie, Lizenz, Repository-Link und ein 128×128-Icon ergänzen
+- [ ] README überarbeiten: Screenshot des Problems-Panels einfügen und die Funktionen sowie Einschränkungen (nur `.md`-Dateien) beschreiben
+- [ ] Mit `vsce package` eine `.vsix`-Datei erzeugen und sie in einer sauberen VS-Code-Installation testen. Die Diagnostics erscheinen beim Speichern einer `.md`-Datei
+- [ ] Publisher-Konto für den Marketplace anlegen und Zugriffstoken erstellen (Veröffentlichung selbst folgt in der nächsten Planung)
+
+
+#### Tagesreflexion
+<!--
+Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
+und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
+Nicht wiederholen, was die Checkboxen schon aussagen.
+Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
+-->
+
+
 
 
 <!--
