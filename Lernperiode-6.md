@@ -10,7 +10,7 @@ Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark;
 in welchen sind die ungenügend? Welche davon sind besonders wichtig?
 -->
 
-...Ihr Text...
+Noten werden im Verlauf vom Jahr noch eingefügt.
 
 ### Veränderungen
 <!--
