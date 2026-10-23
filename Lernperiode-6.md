@@ -56,20 +56,13 @@ Tagesüberschrift eines dieser Schlüsselwörter allein auf eine Zeile:
 absence, absent, Absenz, abwesend, krank, Krankheit.
 -->
 
-### Planung tt.mm.jjjj
-<!--
-Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
-Umfang: ca. 30 - 60 Minuten je Arbeitspaket
-Markieren Sie beendete Arbeitspakete mit einem x.
+### Planung 23.10.2026
 
-Beispiele:
-- [ ] noch nicht erledigte Aufgabe
-- [x] erledigte Aufgabe
--->
-
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] Entwicklungsumgebung auf dem Arch-Laptop einrichten (Node.js, npm, Git, Editor) und mit `yo code` ein TypeScript-Erweiterungsgerüst erzeugen. Mit F5 starten, bis der Beispielbefehl in der Befehlspalette erscheint
+- [ ] `lernatelier-checker-js` in die Erweiterung einbinden und in `extension.ts` mit einem Testtext aufrufen. Das Prüfergebnis erscheint im Output-Fenster
+- [ ] Die Prüfung auf die aktuell geöffnete `.md`-Datei beschränken: Text aus dem aktiven Editor lesen, andere Dateitypen überspringen
+- [ ] Prüfergebnisse als Diagnostics im Problems-Panel von VS Code anzeigen, jeweils mit Zeilenangabe
+- [ ] Prüfung automatisch beim Speichern ausführen, kurzes README mit Installation und Funktionsumfang schreiben und den Stand auf GitHub pushen
 
 
 #### Tagesreflexion
