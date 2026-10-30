@@ -94,11 +94,10 @@ Fügen Sie hier die weiteren Tage der Lernperiode ein.
 
 ### Planung 30.10.2026
 
-- [ ] Erweiterung mit esbuild bündeln: Build-Skript in `package.json` einrichten und prüfen, dass die gebündelte `extension.js` in der Debug-Umgebung (F5) genauso funktioniert wie vorher
-- [ ] `package.json` für den Marketplace vorbereiten: Anzeigename, Beschreibung, Kategorie, Lizenz, Repository-Link und ein 128×128-Icon ergänzen
-- [ ] README überarbeiten: Screenshot des Problems-Panels einfügen und die Funktionen sowie Einschränkungen (nur `.md`-Dateien) beschreiben
-- [ ] Mit `vsce package` eine `.vsix`-Datei erzeugen und sie in einer sauberen VS-Code-Installation testen. Die Diagnostics erscheinen beim Speichern einer `.md`-Datei
-- [ ] Publisher-Konto für den Marketplace anlegen und Zugriffstoken erstellen (Veröffentlichung selbst folgt in der nächsten Planung)
+- [x] Abweichung des Plans
+- [ ] Markdown Editor - Groben Plan für die Applikation definieren. Was will ich? Was soll es machen? Wie?
+- [x] Kaffegespräch mit Herr Lauk ;p
+- [ ] Mit der Umsetzung von der Notizen Applikation starten.
 
 
 #### Tagesreflexion
@@ -109,8 +108,35 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
+Ich habe zuerst, wie bei jedem Projekt so üblich, das Projektverzeichnis angelegt, git darauf angesetzt und mit dotnet ein template geladen. Ich habe mich entschieden dieses Projekt in C# umzusetzen. Mal schauen, was wird :p.
+
+Meilensteine für mein Projekt:
+- Eine Notizen Applikation, mit welcher man in Markdown arbeiten kann, entweder in einem Terminal User Interface oder im Graphical User Interface
+- Sie kann durch sogenannte "Packs" expandiert werden und ist somit für den Individuellen Nutzer angepasst (z.B. Nutzer in der IMS brauchen etwas um Notizen für FRW oder Wirtschaft zu erleichtern.)
+- Das Programm wird in C# geschrieben
+- 
+
+<!--
+Fügen Sie hier die weiteren Tage der Lernperiode ein.
+-->
+
+### Planung 06.10.2026
+
+- [x] AP
+- [ ] AP
+- [x] AP
+- [ ] AP
 
 
+#### Tagesreflexion
+<!--
+Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
+und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
+Nicht wiederholen, was die Checkboxen schon aussagen.
+Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
+-->
+
+Reflexion
 
 <!--
 Fügen Sie hier die weiteren Tage der Lernperiode ein.
