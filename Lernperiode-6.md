@@ -123,6 +123,7 @@ Fügen Sie hier die weiteren Tage der Lernperiode ein.
 
 - [x] Vorbereitung für das Fachgespräch zu Modul 320
 - [x] Weiterarbeit an Metro Editor, die Notizen Applikation: Package Manifest, Package Tests TOML
+- [ ] AP
 
 
 #### Tagesreflexion
@@ -143,6 +144,8 @@ Fügen Sie hier die weiteren Tage der Lernperiode ein.
 
 - [x] Weiterarbeit an Metro Editor, die Notizen Applikation: Package Manifest, Package Tests TOML, bis wir aus einer TOMLpackage Datei weiterhin auslesen können
 - [ ] ggf. weiterarbeiten??
+- [ ] AP
+
 
 
 #### Tagesreflexion
@@ -152,8 +155,6 @@ und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
 Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
-
-Ich war heute extrem Nervös über das Fachgespräch heute. Hatte mich so gut wie es geht vorbereitet, jedoch gab es für mich immernoch ein paar schwierige Holpersteine. Metro Editor hat ein wenig neuen Zuschuss an funktion bekommen. Ich probiere zuerst einmal eine Klasse zu befüllen für die Packs die ich machen werde, sodass ich 
 
 <!--
 Fügen Sie hier die weiteren Tage der Lernperiode ein.
