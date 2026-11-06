@@ -114,18 +114,15 @@ Meilensteine für mein Projekt:
 - Eine Notizen Applikation, mit welcher man in Markdown arbeiten kann, entweder in einem Terminal User Interface oder im Graphical User Interface
 - Sie kann durch sogenannte "Packs" expandiert werden und ist somit für den Individuellen Nutzer angepasst (z.B. Nutzer in der IMS brauchen etwas um Notizen für FRW oder Wirtschaft zu erleichtern.)
 - Das Programm wird in C# geschrieben
-- 
 
 <!--
 Fügen Sie hier die weiteren Tage der Lernperiode ein.
 -->
 
-### Planung 06.10.2026
+### Planung 06.11.2026
 
-- [x] AP
-- [ ] AP
-- [x] AP
-- [ ] AP
+- [x] Vorbereitung für das Fachgespräch zu Modul 320
+- [x] Weiterarbeit an Metro Editor, die Notizen Applikation: Package Manifest, Package Tests TOML
 
 
 #### Tagesreflexion
@@ -136,11 +133,32 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-Reflexion
+Ich war heute extrem Nervös über das Fachgespräch heute. Hatte mich so gut wie es geht vorbereitet, jedoch gab es für mich immernoch ein paar schwierige Holpersteine. Metro Editor hat ein wenig neuen Zuschuss an funktion bekommen. Ich probiere zuerst einmal eine Klasse zu befüllen für die Packs die ich machen werde, sodass ich die Klasse befüllt werden kann und der Editor die nötigen Werte zum weiterarbeiten bekommt.
 
 <!--
 Fügen Sie hier die weiteren Tage der Lernperiode ein.
 -->
+
+### Planung 20.11.2026
+
+- [x] Weiterarbeit an Metro Editor, die Notizen Applikation: Package Manifest, Package Tests TOML, bis wir aus einer TOMLpackage Datei weiterhin auslesen können
+- [ ] ggf. weiterarbeiten??
+
+
+#### Tagesreflexion
+<!--
+Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
+und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
+Nicht wiederholen, was die Checkboxen schon aussagen.
+Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
+-->
+
+Ich war heute extrem Nervös über das Fachgespräch heute. Hatte mich so gut wie es geht vorbereitet, jedoch gab es für mich immernoch ein paar schwierige Holpersteine. Metro Editor hat ein wenig neuen Zuschuss an funktion bekommen. Ich probiere zuerst einmal eine Klasse zu befüllen für die Packs die ich machen werde, sodass ich 
+
+<!--
+Fügen Sie hier die weiteren Tage der Lernperiode ein.
+-->
+
 
 ## Lernperiode Reflexion
 <!--
