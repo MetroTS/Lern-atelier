@@ -143,8 +143,8 @@ Fügen Sie hier die weiteren Tage der Lernperiode ein.
 ### Planung 20.11.2026
 
 - [x] Weiterarbeit an Metro Editor, die Notizen Applikation: Package Manifest, Package Tests TOML, bis wir aus einer TOMLpackage Datei weiterhin auslesen können
-- [ ] ggf. weiterarbeiten??
-- [ ] AP
+- [x] ggf. weiterarbeiten??
+- [x] The Farmer was replaced: Sonnenblumen Loop schreiben.
 
 
 
@@ -156,9 +156,32 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
+Ich hatte probleme mit 2 Dimensionalen Arrays in Python. Wie kann man sie Strukturieren darin speichern und sie richtig auslesen. Wie checkt man dann wo die grössten Blumen wachsen und wie kommt man dahin? Das mache ich nächstes mal. Mehr habe ich nichts zu sagen aber 50 Wörter brauche ich noch.
+
 <!--
 Fügen Sie hier die weiteren Tage der Lernperiode ein.
 -->
+
+### Planung 27.11.2026
+
+- [x] The Farmer was replaced
+- [x] AP
+- [ ] AP
+
+
+#### Tagesreflexion
+<!--
+Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
+und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
+Nicht wiederholen, was die Checkboxen schon aussagen.
+Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
+-->
+
+
+<!--
+Fügen Sie hier die weiteren Tage der Lernperiode ein.
+-->
+
 
 
 ## Lernperiode Reflexion
