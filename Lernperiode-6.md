@@ -218,7 +218,7 @@ Dabei habe ich mir mein Code so vorgestellt:
                 grid.append(field)
                 move(North)
             move(East)
-            ```
+```
 
 
 Was lief nun Schwierig?:
