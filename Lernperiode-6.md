@@ -164,7 +164,65 @@ Fügen Sie hier die weiteren Tage der Lernperiode ein.
 
 ### Planung 27.11.2026
 
-- [x] The Farmer was replaced
+- [x] The Farmer was replaced: Algorithmus zum Ermitteln der Sonnenblumenposition und die Drohne auf die grössten Sonnenblumen zuerst zu navigieren.
+- [x] AP
+- [ ] AP
+
+
+#### Tagesreflexion
+<!--
+Letztes mal hatte ich erstaunlich viele Probleme mit Arrays in meinem Code. Mit diesen Problemen nun gelöst, habe ich mich dem zweiten Teil des Programms gewappnet. Nun wissen wir ja wieviel von den grössten Sonnenblumen wir gepflanzt haben und haben die genaue X- und Y-Koordinaten dessen Blumen. Nun besteht die neue Challenge darin, dass wir die Drohne zuerst zu den grössten Sonnenblumen leiten, sodass Sie sie ernten kann. 
+
+Dabei habe ich mir mein Code so vorgestellt:
+'code'
+'for i in range(len(grid)):'
+'''  if grid
+    for i in range(len(grid)):
+        if grid[i][2]==15:                              #Falls das Array i im zweiten Element die Zahl 15 enthält dann:
+            if grid[i][0] != get_pos_x():               #gleiche ab, ob du auf der gleichen X-Position bist wie das Element in der Liste
+                while grid[i][0] != get_pos_x():        #solange du nicht die gleiche X-Position erreicht hast, bewege dich nach Osten.
+                    move(East)
+                if grid[i][1] != get_pos_y():           #dann gleiche ab, ob du auf der gleichen Y-Position bist wie das Element in der Liste
+                    while grid[i][1] != get_pos_y():    #solange du das nicht bist, bewege dich nach Norden.
+                        move(North)
+                    harvest()                           #Wenn diese Bedingungen erfüllt sind, baue die Sonnenblume ab.
+            else:
+                if grid[i][1] != get_pos_y():           #Dies ist der wichtige Teil des Codes!!!! Hier war mein Denkfehler. Ich hatte gedacht mit der ersten Abfrage werden alle cases abgefangen! 
+                    while grid[i][1] != get_pos_y():    #Jedoch muss man beachten, dass die Y-Koordinate oder X-Koordinate per Zufall schon von der Drohne erreicht wurden. 
+                        move(North)                     #Sonst würde die Drohne es einfach ignorieren. 
+                    harvest()
+                else:
+                    harvest()
+    if get_pos_x() != 0:                                #Nun kommt der Rest der Sonnenblumen dran. Wir wollen die Drohne wieder "home" leiten. Also leiten wir sie mit der Frage "bist du auf anfang x/y?" wieder zum start. 
+        while get_pos_x() != 0:
+            move(West)
+    if get_pos_y() != 0:
+        while get_pos_y() != 0:
+            move(South)
+    for i in range(worldsize*worldsize):               #Wir löschen das Array 
+        grid.pop()
+    for c in range(worldsize):
+            coordinate_x = get_pos_x()
+            for r in range(worldsize):
+                harvest()
+                field=[]
+                if get_entity_type() == Entities.Grass:
+                    till()
+                plant(Entities.Sunflower)
+                use_item(Items.Fertilizer)
+                coordinate_y = get_pos_y()
+                size = measure() 
+                field.append(coordinate_x)
+                field.append(coordinate_y)
+                field.append(size)
+                grid.append(field)
+                move(North)
+            move(East)'''
+-->
+
+### Planung 04.12.2026
+
+- [x] The Farmer was replaced:
 - [x] AP
 - [ ] AP
 
