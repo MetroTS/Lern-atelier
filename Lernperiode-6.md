@@ -166,7 +166,7 @@ Fügen Sie hier die weiteren Tage der Lernperiode ein.
 
 - [x] The Farmer was replaced: Algorithmus zum Ermitteln der Sonnenblumenposition und die Drohne auf die grössten Sonnenblumen zuerst zu navigieren.
 - [x] AP
-- [ ] AP
+- [x] AP
 
 
 #### Tagesreflexion
@@ -231,7 +231,7 @@ Was möchte ich das nächste mal machen? Ich möchte die Kakteen anfangen.
 
 - [x] The Farmer was replaced: Kakteen Sortierungsalgorithmus
 - [x] AP
-- [ ] AP
+- [x] AP
 
 
 #### Tagesreflexion
