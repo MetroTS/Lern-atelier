@@ -170,13 +170,13 @@ Fügen Sie hier die weiteren Tage der Lernperiode ein.
 
 
 #### Tagesreflexion
-<!--
+
 Letztes mal hatte ich erstaunlich viele Probleme mit Arrays in meinem Code. Mit diesen Problemen nun gelöst, habe ich mich dem zweiten Teil des Programms gewappnet. Nun wissen wir ja wieviel von den grössten Sonnenblumen wir gepflanzt haben und haben die genaue X- und Y-Koordinaten dessen Blumen. Nun besteht die neue Challenge darin, dass wir die Drohne zuerst zu den grössten Sonnenblumen leiten, sodass Sie sie ernten kann. 
 
 Dabei habe ich mir mein Code so vorgestellt:
 'code'
 'for i in range(len(grid)):'
-'''  if grid
+```  if grid
     for i in range(len(grid)):
         if grid[i][2]==15:                              #Falls das Array i im zweiten Element die Zahl 15 enthält dann:
             if grid[i][0] != get_pos_x():               #gleiche ab, ob du auf der gleichen X-Position bist wie das Element in der Liste
@@ -199,9 +199,9 @@ Dabei habe ich mir mein Code so vorgestellt:
     if get_pos_y() != 0:
         while get_pos_y() != 0:
             move(South)
-    for i in range(worldsize*worldsize):               #Wir löschen das Array 
+    for i in range(worldsize*worldsize):               #Wir löschen die Elemente des Arrays Stück für Stück, sodass die neuen Elemente nicht einfach addiert werden.
         grid.pop()
-    for c in range(worldsize):
+    for c in range(worldsize):                         #Zweiter Loop zum neuen Befüllen des Arrays. Folgt dem gleichen Prinzip wie nächstes Mal.
             coordinate_x = get_pos_x()
             for r in range(worldsize):
                 harvest()
@@ -217,12 +217,19 @@ Dabei habe ich mir mein Code so vorgestellt:
                 field.append(size)
                 grid.append(field)
                 move(North)
-            move(East)'''
--->
+            move(East)
+            ```
+
+
+Was lief nun Schwierig?:
+
+Die Logik um die Drohne zu den grössten Sonnenblumen zuerst zu bewegen bräuchte ein Paar Anläufe. Ich hatte mich ein Paar mal den Tagen danach hingesetzt und alles nochmals überdacht. Etwas was für uns so selbstverständlich klingt ist eigentlich ein langer Gedankenprozess von Auschlusskriterien.
+
+Was möchte ich das nächste mal machen? Ich möchte die Kakteen anfangen.
 
 ### Planung 04.12.2026
 
-- [x] The Farmer was replaced:
+- [x] The Farmer was replaced: Kakteen Sortierungsalgorithmus
 - [x] AP
 - [ ] AP
 
